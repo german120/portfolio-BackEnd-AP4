@@ -14,6 +14,7 @@ com\portfoliobackendap4\backendportfolio\Entity\Persona.class
 com\portfoliobackendap4\backendportfolio\Security\Dto\LoginUsuario.class
 com\portfoliobackendap4\backendportfolio\Security\Service\UsuarioService.class
 com\portfoliobackendap4\backendportfolio\Security\Service\UserDetailsImpl.class
+com\portfoliobackendap4\backendportfolio\WebConfig.class
 com\portfoliobackendap4\backendportfolio\BackendportfolioApplication.class
 com\portfoliobackendap4\backendportfolio\Security\Service\RolService.class
 com\portfoliobackendap4\backendportfolio\Security\jwt\JwtEntryPoint.class
